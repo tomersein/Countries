@@ -1,0 +1,3 @@
+C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/CMakeFiles/Ex2AdvancedCoding.dir
+C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/CMakeFiles/rebuild_cache.dir

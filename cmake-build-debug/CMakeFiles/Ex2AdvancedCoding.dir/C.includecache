@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/Countries.h
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+Defs.h
+C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/Defs.h
+
+C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/Defs.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+
+C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/HashTable.h
+Defs.h
+C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/Defs.h
+
+C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/main.c
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+Countries.h
+C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/Countries.h
+Defs.h
+C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/Defs.h
+HashTable.h
+C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/HashTable.h
+

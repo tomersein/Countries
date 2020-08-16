@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2018.2.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Ex2AdvancedCoding.dir/objects.a
+C:\TDM-GCC-64\bin\ar.exe cr CMakeFiles\Ex2AdvancedCoding.dir/objects.a @CMakeFiles\Ex2AdvancedCoding.dir\objects1.rsp
+C:\TDM-GCC-64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Ex2AdvancedCoding.dir/objects.a -Wl,--no-whole-archive  -o Ex2AdvancedCoding.exe -Wl,--out-implib,libEx2AdvancedCoding.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Ex2AdvancedCoding.dir\linklibs.rsp

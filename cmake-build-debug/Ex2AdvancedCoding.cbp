@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Ex2AdvancedCoding"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ex2AdvancedCoding">
+				<Option output="C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Ex2AdvancedCoding.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/../../../../include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include-fixed"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ex2AdvancedCoding"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Ex2AdvancedCoding/fast">
+				<Option output="C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Ex2AdvancedCoding.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/../../../../include"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/include-fixed"/>
+					<Add directory="C:/TDM-GCC-64/bin/../lib/gcc/x86_64-w64-mingw32/5.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ex2AdvancedCoding/fast"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/TDM-GCC-64/bin/mingw32-make.exe -f &quot;C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/Countries.c">
+			<Option target="Ex2AdvancedCoding"/>
+		</Unit>
+		<Unit filename="C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/Countries.h">
+			<Option target="Ex2AdvancedCoding"/>
+		</Unit>
+		<Unit filename="C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/Defs.h">
+			<Option target="Ex2AdvancedCoding"/>
+		</Unit>
+		<Unit filename="C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/HashTable.c">
+			<Option target="Ex2AdvancedCoding"/>
+		</Unit>
+		<Unit filename="C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/HashTable.h">
+			<Option target="Ex2AdvancedCoding"/>
+		</Unit>
+		<Unit filename="C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/LinkedList.c">
+			<Option target="Ex2AdvancedCoding"/>
+		</Unit>
+		<Unit filename="C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/LinkedList.h">
+			<Option target="Ex2AdvancedCoding"/>
+		</Unit>
+		<Unit filename="C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/keyValuePair.c">
+			<Option target="Ex2AdvancedCoding"/>
+		</Unit>
+		<Unit filename="C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/keyValuePair.h">
+			<Option target="Ex2AdvancedCoding"/>
+		</Unit>
+		<Unit filename="C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/main.c">
+			<Option target="Ex2AdvancedCoding"/>
+		</Unit>
+		<Unit filename="C:/Users/tomer/CLionProjects/Ex2AdvancedCoding/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

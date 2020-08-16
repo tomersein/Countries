@@ -1,0 +1,6 @@
+Israel,1,2,2,1
+	HodHasharon,frozenYogurt,100
+	beersheba,hummus,200
+Africa,20,30,25,25
+	Zimbabue,bugs,5000
+France,50,100,55,90
